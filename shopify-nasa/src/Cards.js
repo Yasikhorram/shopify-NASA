@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Card from "./Card";
-import img from "./assets/NASA.png";
 import axios from "axios";
 
 const Cards = () => {
