@@ -1,7 +1,21 @@
 body {
   background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+  font-family: "Archivo", sans-serif;
 }
 
 .card:hover {
   box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253);
+}
+
+.header {
+  font-family: "Russo One", sans-serif;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: #c0946e;
+  color: #fff;
 }
