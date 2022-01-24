@@ -5,7 +5,7 @@ import axios from "axios";
 
 const Cards = () => {
   const url =
-    "https://api.nasa.gov/planetary/apod?count=6&api_key=CAb99kk9Zh6mY0Bns93YOWYN0fVJFyAk7UWL3x4V";
+    "https://api.nasa.gov/planetary/apod?count=6&api_key=zT76xLXLi9pepDyZh34BBhSH4g6k0C9dQIae2Lvf";
   const [data, setData] = useState([]);
   const [like, setLike] = useState({});
 
